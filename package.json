@@ -1,0 +1,8 @@
+{
+    "name": "carpe-diem",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "jayanthi",
+    "contributors": [],
+    "dependencies": {}
+}
